@@ -1,0 +1,9 @@
+{
+    "policyId": "b2cf0104f0a10cd0675232230122ba8715c01bcae09e150bbd66f6ce",
+    "name": "dodo",
+    "symbol": "dodo",
+    "website": "https://www.biceppool.com/",
+    "description": "Super rare dodo coin created by BICEP Stakepool",
+    "totalSupply": 250,
+    "amounts": [1, 2, 5, 10, 15, 20, 25, 50]
+}
